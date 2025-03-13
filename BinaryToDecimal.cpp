@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	// Convert binary to decimal
+	// Convert binary to decimal--> init base with 1 then take the last value 
 	int num;
 	cout << "Enter number" << endl;
 	cin >> num;
